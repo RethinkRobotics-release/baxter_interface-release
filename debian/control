@@ -1,0 +1,12 @@
+Source: ros-indigo-baxter-interface
+Section: misc
+Priority: extra
+Maintainer: Rethink Robotics Inc. <rsdk.support@rethinkrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-actionlib, ros-indigo-baxter-core-msgs, ros-indigo-catkin, ros-indigo-control-msgs, ros-indigo-dynamic-reconfigure, ros-indigo-rospy, ros-indigo-sensor-msgs, ros-indigo-std-msgs, ros-indigo-trajectory-msgs
+Homepage: http://sdk.rethinkrobotics.com
+Standards-Version: 3.9.2
+
+Package: ros-indigo-baxter-interface
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-actionlib, ros-indigo-baxter-core-msgs, ros-indigo-control-msgs, ros-indigo-dynamic-reconfigure, ros-indigo-rospy, ros-indigo-sensor-msgs, ros-indigo-std-msgs, ros-indigo-trajectory-msgs
+Description: Convenient python interface classes for control of the Baxter Research Robot from Rethink Robotics.
