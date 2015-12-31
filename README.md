@@ -1,3 +1,24 @@
+## baxter_interface (indigo) - 1.2.0-0
+
+The packages in the `baxter_interface` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo baxter_interface --edit` on `Thu, 31 Dec 2015 18:18:55 -0000`
+
+The `baxter_interface` package was released.
+
+Version of package(s) in repository `baxter_interface`:
+- upstream repository: https://github.com/RethinkRobotics/baxter_interface.git
+- release repository: https://github.com/RethinkRobotics-release/baxter_interface-release.git
+- rosdistro version: `1.1.1-0`
+- old version: `1.1.1-0`
+- new version: `1.2.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.9`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.38`
+
+
 ## baxter_interface (hydro) - 1.1.1-0
 
 The packages in the `baxter_interface` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro baxter_interface --edit` on `Mon, 18 May 2015 18:26:55 -0000`
